@@ -47,10 +47,7 @@ The project follows a structured workflow — from data exploration to preproces
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
----
 
 **Author:** Sahid Ahmed  
 **Program:** Data Science & Business Analytics (University of Texas at Austin × Great Learning)  
